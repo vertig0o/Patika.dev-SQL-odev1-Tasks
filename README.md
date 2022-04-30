@@ -1,4 +1,5 @@
 # Patika.dev-SQL-Tasks
+# Patika.dev linkim https://app.patika.dev/vertig0o
 # dvdrental örnek veri tabanı kullanılmıştır
 1. film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 2. film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
